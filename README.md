@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.gifer.com/75xT.gif" alt="pixel ilustration, two persons on a camp">
+    <img src="assets/gif/camp.gif" alt="pixel ilustration, two persons on a camp">
     <h2>Hello There 👋, welcome to my GitHub profile</h2>
     <br>
     <p>I'm Alisson, a student of System Analysis and Development at 
